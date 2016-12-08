@@ -1,0 +1,1 @@
+For running with Windows, compile with Cygwin. Copy the file cygwin1.dll as well as the exe file into its own folder to run as a standalone program.

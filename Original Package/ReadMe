@@ -1,0 +1,35 @@
+It is highly recommended that you read the manual before using this program. It
+is also recommended that users are familiar with the command line and their 
+systems scripting language. This ReadMe is written more for developers than
+users.
+
+Table of Contents:
+1) Project information
+2) Installation
+3) Contribution
+
+1) Project information
+----------------------
+Flexible ROM Corruptor
+Written in C++ and LUA
+Designed for Windows and Linux
+
+  This program was written to provide Linux with a ROM corruptor and fix common
+issues with the corruption community, such as having to run the Vinesauce ROM
+corruptor as a standalone corruptor while running Real-Time Corruptor as a
+real time corruptor, by providing the functionality found in both corruptors.
+
+2) Installation
+---------------
+Packages should include this ReadMe file, a user guide, the source code and the
+Windows binary. Windows users can just use the precompiled binary. Unix-like
+system users should manually compile the source code. ArchLinux users should go
+to http://AUR.ArchLinux.org/packages/corrupt/ and install the package.
+
+3) Contribution
+---------------
+If you truly want to help this project grow, you should go to
+http://SourceForge.net/projects/corrupter-for-linux/ and, under the Discussion
+tab, suggest features to the developers in the forum. You can also help by
+asking us questions. If you find a bug, this where you want to report it. 
+
