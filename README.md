@@ -7,7 +7,4 @@ hobbyists.
 Documentation and other important files can be found at:
 https://github.com/Giganitris/FRC
 
-Installation:
-Configuration:
-Running:
-
+If you want to be the new owner of this repository, just let me know. I've abandoned the project. 
